@@ -40,7 +40,8 @@ C# ile geliştirilmiş mağaza yönetim uygulaması (ürün ekleme, düzenleme, 
 
 ## 🔥 GitHub Streak  
 
-[![GitHub streak](https://streak-stats.demolab.com?user=cansukahve&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![GitHub streak](https://streak-stats.demolab.com?user=cansukahve&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
