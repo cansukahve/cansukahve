@@ -47,7 +47,7 @@ C# ile geliştirilmiş mağaza yönetim uygulaması (ürün ekleme, düzenleme, 
 
 ## 📫 Bana Ulaş  
 
-📧 Email: **cansu.kahve@example.com**  
+📧 Email: **52cansukahve@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/cansukahve](https://linkedin.com/in/cansukahve)  
 
 ---
